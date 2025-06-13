@@ -1,0 +1,35 @@
+.poster{
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    text-transform: uppercase;
+}
+
+.paragraph{
+    color: black;
+}
+
+.poster{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.motivation-image{
+    border: 5px solid white;
+    width: 100%;
+}
+
+p{
+    color: white;
+}
+
+body {
+    background-color: black;
+}
